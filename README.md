@@ -5,7 +5,7 @@ What is it?
 Development board holders were conceived out of a necessity to handle <br>
 multiple embedded development projects while keeping things organized <br>
 and neat.  This is the latest version that has been streamlined to require <br>
-as little fabrication time as possible.  It is made to be robust, aestherically <br>
+as little fabrication time as possible.  It is made to be robust, aesthetically <br>
 pleasing, inexpensive and practical. <br>
 
 CAD is supplied in CREO 2 (aka ProEngineer) format, but if you like to create <br>
@@ -32,7 +32,7 @@ Here is what you need to make one:
 7.  Solderless breadboard (Digikey BKGS-590-ND)
 8.  Solderless breadboard Strip (BKGS-090-ND, I use 3 but its up to you.)
 
-Here is how to make it.
+Here is how to make it:
 
 1. Print out a 1:1 drawing of the layout you setup in CAD (This is my RaspberryPi holder. <br>
 Think carefully where you place stuff and where connectors, simcards and sd cards end up.)
@@ -43,7 +43,8 @@ make the holder look extra nice)
 5. Mount print out on the block.
 6. Use drill press to drill all the marked holes.
 7. Once the holes are drilled, you can peal the blue film off the top side
-8. Press fit or thread the stand offs
+8. Press fit or thread the stand offs (if threading in, make sure you dont <br>
+strip the treads...)
 9. Peal bottom blue film off
 9. Attach feet (I buy nice clear self adheasive feet on Amazon for a few bucks.)
 10. Clean off any polishing compount or dust.
