@@ -20,11 +20,12 @@ Cheers.
 Here is what you need to make one:
 
 1.  12 in X 6 in X 1/2 inch thick Acrylic block (McMaster 4615T55 $13.41, you can also go with 1/4 which is<br>
-    half the price but not feel nice)  
+    half the price but dont look as nice.)  
 2.  2.3 mm diameter drill (Need this exact diamter, smaller or larger wont work)
 3.  M2.5x.45 10mm Hex Standoff (Digikey 732-10397-ND) 
 4.  Either
-    * Press (Standoffs can be pressed into 2.3 mm holes directly which saves a ton of time)
+    * Use Hand Press to press fit stanoffs into the holes. (Standoffs can be pressed into 2.3 mm holes <br>
+    directly which saves lots of time.)
     * Drill with 5mm socket (If you do not have a press, you will just have to use a socket wrench<br>
     to install the standoffs.)
 5.  M2.5x.45 X 5 MM Pan Head Phillips (McMaster 92005A061)
@@ -48,3 +49,4 @@ strip the treads...)
 9. Peal bottom blue film off
 9. Attach feet (I buy nice clear self adheasive feet on Amazon for a few bucks.)
 10. Clean off any polishing compount or dust.
+11. Attach solderless board and strips. (Again, make sure not to strip the treads.)
