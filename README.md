@@ -1,8 +1,5 @@
 # Dev Board Holder
 
-
-Setup:
-
 What is it?
 
 Development board holders were conceved out of a necessity to handle <br>
