@@ -2,7 +2,7 @@
 
 What is it?
 
-Development board holders were conceved out of a necessity to handle <br>
+Development board holders were conceived out of a necessity to handle <br>
 multiple embedded development projects while keeping things organized <br>
 and neat.  This is the latest version that has been streamlined to require <br>
 as little fabrication time as possible.  It is made to be robust, aestherically <br>
@@ -25,15 +25,17 @@ Here is what you need to make one:
 3.  M2.5x.45 10mm Hex Standoff (Digikey 732-10397-ND) 
 4.  Either
     * Press (Standoffs can be pressed into 2.3 mm holes directly which saves a ton of time)
-    * Drill with 5mm socket (If you do not have a press, you will just have to use a socket wrench<br>)
-    to install the standoffs.
+    * Drill with 5mm socket (If you do not have a press, you will just have to use a socket wrench<br>
+    to install the standoffs.)
 5.  M2.5x.45 X 5 MM Pan Head Phillips (McMaster 92005A061)
 6.  M2.5x.45 X 16 MM Long Flat Head (McMaster 92010A024)
+7.  Solderless breadboard (Digikey BKGS-590-ND)
+8.  Solderless breadboard Strip (BKGS-090-ND, I use 3 but its up to you.)
 
 Here is how to make it.
 
-1. Print out a 1:1 drawing of the layout you setup in CAD (This is my RaspberryPi holder <br>
-make sure you conisder where things go carefully.)
+1. Print out a 1:1 drawing of the layout you setup in CAD (This is my RaspberryPi holder. <br>
+Think carefully where you place stuff and where connectors, simcards and sd cards end up.)
 2. Get the clear block and send and polish the edges (DO NOT REMOVE BLUE FILM, this will <br>
 make the holder look extra nice)
 3. Clean the block while keeping the blue film on.
