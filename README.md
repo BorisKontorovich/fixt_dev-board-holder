@@ -24,10 +24,10 @@ Here is what you need to make one:
 2.  2.3 mm diameter drill (Need this exact diamter, smaller or larger wont work)
 3.  M2.5x.45 10mm Hex Standoff (Digikey 732-10397-ND) 
 4.  Either
-    * Use Hand Press to press fit stanoffs into the holes. (Standoffs can be pressed into 2.3 mm holes <br>
+    * Hand Press to press fit stanoffs into the holes. (Standoffs can be pressed into 2.3 mm holes <br>
     directly which saves lots of time.)
-    * Drill with 5mm socket (If you do not have a press, you will just have to use a socket wrench<br>
-    to install the standoffs.)
+    * Power Drill with 5mm socket to thread standoff in. (If you do not have a press, you can just thread the standoffs<br>
+    in without tapping - it takes more time and you might strip threads if you rush it.)
 5.  M2.5x.45 X 5 MM Pan Head Phillips (McMaster 92005A061)
 6.  M2.5x.45 X 16 MM Long Flat Head (McMaster 92010A024)
 7.  Solderless breadboard (Digikey BKGS-590-ND)
