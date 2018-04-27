@@ -25,14 +25,13 @@ On the Arduino version, the solderless panel is mounted close to the board and o
 
 The hookup board with 6 connectors that can be seen on the Mega holder is a utility board for hooking up the holder to a DC power supply.
 
-<img src="./docs/readme-assets/bananaboard.png" alt="Drawing" style="width: 600px;"/>
+![Board](/docs/readme-assets/bananaboard.png)
+
 
 We have a 3 channel Keithley on our workbench so it helps to keep track on where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest:
 
-
-<img src="./docs/readme-assets/caltestbananajack.png" alt="Drawing" style="width: 200px;"/>
-<img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 247px;"/>
-
+![Board](/docs/readme-assets/caltestbananajack.png)
+![Board](/docs/readme-assets/caltestbananabanana.png)
 
 Cheers. 
 
