@@ -34,7 +34,7 @@ We have a 3 channel Keithley on our workbench so it helps to keep track on where
 <img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 308px;"/>
 
 
-Cheers.
+Cheers. 
 
 Here is what you need to make one:
 
