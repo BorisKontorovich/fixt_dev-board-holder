@@ -30,8 +30,8 @@ The hookup board with 6 connectors that can be seen on the Mega holder is a util
 We have a 3 channel Keithley on our workbench so it helps to keep track on where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest:
 
 
-<img src="./docs/readme-assets/caltestbananajack.png" alt="Drawing" style="width: 250px;"/>
-<img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 308px;"/>
+<img src="./docs/readme-assets/caltestbananajack.png" alt="Drawing" style="width: 200px;"/>
+<img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 247px;"/>
 
 
 Cheers. 
