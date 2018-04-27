@@ -7,7 +7,7 @@ multiple embedded development projects while keeping things organized <br>
 and neat.  This is the latest version that has been streamlined to require <br>
 as little fabrication time as possible.  It is made to be robust and look nice while being inexpensive and practical. <br>
 
-_Installing standoffs does not require any tapping.  You can either thread them in or use a hand press to push them into place - its quick, clean and easy.  Key point here is to use a very specific diameter drill_
+_Installing standoffs does not require any tapping.  You can either thread them in or use a hand press to push them into place - its quick, clean and easy.  Key point here is to use a very specific diameter drill.  Same is true for solderless board screws._
 
 CAD is supplied in CREO 2 (aka ProEngineer) format, but if you like to create <br>
 similar layouts in other formats let me know, I can help. <br>
@@ -27,11 +27,11 @@ The hookup board with 6 connectors that can be seen on the Mega holder is a util
 
 <img src="./docs/readme-assets/bananaboard.png" alt="Drawing" style="width: 600px;"/>
 
-We have a 3 channel Keithley on our workbench so it helps to keep track on where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest
+We have a 3 channel Keithley on our workbench so it helps to keep track on where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest:
 
 
-<img src="./docs/readme-assets/caltestbananajack.png" alt="Drawing" style="width: 300px;"/>
-<img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 371px;"/>
+<img src="./docs/readme-assets/caltestbananajack.png" alt="Drawing" style="width: 250px;"/>
+<img src="./docs/readme-assets/caltestbananabanana.png" alt="Drawing" style="width: 308px;"/>
 
 
 Cheers.
