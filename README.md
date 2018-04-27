@@ -27,8 +27,7 @@ The hookup board with 6 connectors that can be seen on the Mega holder is a util
 
 ![Board](/docs/readme-assets/bananaboard.png)
 
-
-We have a 3 channel Keithley on our workbench so it helps to keep track on where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest:
+We have a 3 channel Keithley supply, so it helps keep track of where different channels go.  Also, you need a safety banana plug cable.  I like the ones from CalTest (Cable: DigiKey BKCT2148-50-2-ND, Plug DigiKey BKCT3151-2-ND ):
 
 ![Board](/docs/readme-assets/caltestbananajack.png)
 ![Board](/docs/readme-assets/caltestbananabanana.png)
